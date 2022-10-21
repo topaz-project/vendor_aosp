@@ -218,6 +218,7 @@ PRODUCT_PACKAGES += \
     DocumentsUIOverlay \
     NetworkStackOverlay \
     ThemedIconsOverlay \
+    NoCombinedIconsOverlay \
     NavigationBarNoHintOverlay
 
 # Translations
