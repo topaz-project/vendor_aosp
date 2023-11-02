@@ -15,6 +15,6 @@ ADDITIONAL_SYSTEM_PROPERTIES += \
 # Updater
 ifeq ($(IS_OFFICIAL),true)
     ADDITIONAL_SYSTEM_PROPERTIES  += \
-        net.pixelos.build_type=ci \
-        net.pixelos.version=$(CUSTOM_VERSION_PROP)
+        net.horizondroid.build_type=ci \
+        net.horizondroid.version=$(CUSTOM_VERSION_PROP)
 endif
