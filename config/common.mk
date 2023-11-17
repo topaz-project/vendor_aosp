@@ -130,6 +130,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     RepainterServicePriv
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # Extra tools
 PRODUCT_PACKAGES += \
     bash \
