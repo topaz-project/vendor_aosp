@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.awaken.support.preferences;
+package com.horizon.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
 import androidx.preference.PreferenceCategory;
 
-import com.awaken.support.R;
+import com.horizon.support.R;
 
 public class CustomPreferenceCategory extends PreferenceCategory {
 
